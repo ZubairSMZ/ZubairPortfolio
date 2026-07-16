@@ -309,12 +309,3 @@ function revealOnScroll() {
 window.addEventListener("scroll", revealOnScroll);
 window.addEventListener("load", revealOnScroll);
 
-/* ==========================================
-   CONTACT
-========================================== */
-
-emailjs.sendForm(
-    "serviceportfolio",
-    "templateportfolio",
-    this
-)
