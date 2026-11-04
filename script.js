@@ -4,6 +4,8 @@
 
 const roles = [
     "MCA Student",
+    "Network Engineer",
+    "CCNA",
     "Full Stack Developer",
     "Java Developer",
     "Data Analyst",
